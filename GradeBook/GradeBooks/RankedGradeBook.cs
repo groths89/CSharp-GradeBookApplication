@@ -8,7 +8,6 @@ namespace GradeBook.GradeBooks
         {
             
         }
-        public string Type = GradeBookType.Ranked;
-    
+
     }
 }
